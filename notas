@@ -27,7 +27,7 @@ var=Armazena dados variáveis, como arquivos de log, spool de e-mail e caches.
 tmp=Armazena arquivos temporários que podem ser excluídos entre reinicializações.
 mnt=utilizado como ponto de montagem temporário para sistemas de arquivos adicionais.
 run=Contém arquivos de sistema e sockets temporários, que são criados e gerenciados pelo sistema operacional durante a inicialização.
-
+usr=Contém programas de software e bibliotecas instalados
 
 
 
