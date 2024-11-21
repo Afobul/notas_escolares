@@ -11,7 +11,9 @@ caminho relativo- Um caminho relativo descreve a localização de um arquivo ou 
 caminho absoluto- Um caminho absoluto descreve a localização de um arquivo ou diretório a partir da raiz do sistema de arquivos.
 
 rm -r teste/ - remove essa pasta 
-Uma variável de ambiente é A diferença principal está na abordagem: 
+
+Uma variável de ambiente é um valor q é guardado no sistema operativo e q depois podemos chamar pelo seu nome.
+env-mostra todas as variáveis de ambiente
 
 pwd é um comando que mostra diretamente o diretório atual, enquanto echo $PWD exibe o valor da variável de ambiente $PWD, que armazena o mesmo caminho do diretório de trabalho atual.
 
